@@ -1,0 +1,1 @@
+Esse projeto é um cronometro que irá marca o tempo em minutos e segundos com começo e pausa, utilizando apenas a linguagem de Javascript pura.
